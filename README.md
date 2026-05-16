@@ -1,5 +1,5 @@
 # AI Governance Dashboard
-A modular evaluation platform for analyzing governance quality in healthcare AI systems. The dashboard supports model scoring, risk visualization, narrative reporting, and PDF export. Organizations can use the tool to review fairness, oversight, explainability, and operational risk across multiple models.
+A modular evaluation platform for analyzing governance quality in healthcare AI systems. The dashboard supports model scoring, risk visualization, narrative reporting, and PDF export. Organizations can use the tool to review oversight, explainability, and operational risk across multiple models.
 
 # Key Features
 - Governance Scoring: A structured scoring engine that produces a 0 to 100 governance score for each model.
