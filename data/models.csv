@@ -1,0 +1,50 @@
+model_name,data_diverse,human_oversight,explainable,high_risk_task,bias_flag,synthetic_risk_score,description,domain
+HeartScanAI,yes,no,no,yes,medium,7,AI for cardiac imaging risk detection,cardiology
+DermDetect,no,yes,yes,no,high,5,Skin lesion classifier,dermatology
+NeuroVision,no,no,no,yes,high,9,Brain MRI anomaly detector,neurology
+PediAssist,yes,yes,yes,no,low,2,General pediatric symptom triage,pediatrics
+OncoPredict,no,yes,no,yes,high,8,Tumor regression prediction,oncology
+GlucoseGuide,yes,no,yes,no,medium,4,Diabetes glucose trend predictor,endocrinology
+CardioRiskAI,no,no,yes,yes,high,8,Cardiac event risk scoring,cardiology
+LungScanLite,yes,yes,no,no,medium,3,Chest X-ray classifier,pulmonology
+StrokeAlert,no,yes,no,yes,high,8,Stroke detection from CT,neurology
+NeoCareAI,yes,no,yes,no,medium,4,Neonatal vitals anomaly detection,neonatology
+RenalCheckAI,no,no,no,yes,high,9,Renal failure prediction,nephrology
+OrthoAssist,yes,yes,yes,no,low,2,Orthopedic injury classifier,orthopedics
+SkinSafeAI,no,yes,no,no,medium,4,Melanoma risk scoring,dermatology
+EchoVision,yes,no,yes,yes,medium,6,Echocardiogram interpretation,cardiology
+SepsisWatch,no,no,yes,yes,high,9,Sepsis early warning system,critical_care
+FetalMonitorAI,yes,yes,no,no,medium,3,Fetal heart rate analysis,obstetrics
+PathoScan,no,no,no,yes,high,10,Pathology slide classifier,pathology
+VisionCareAI,yes,yes,yes,no,low,2,Ophthalmology screening tool,ophthalmology
+TraumaTriageAI,yes,yes,yes,yes,medium,5,Emergency trauma triage,emergency
+InfectionNet,no,no,no,yes,high,8,Infection control risk model,infection_control
+NeuroScreenLite,no,yes,no,no,medium,4,Neurological screening assistant,neurology
+PulsePredict,yes,yes,yes,no,low,1,Cardiac pulse trend monitor,cardiology
+OncuScanPro,no,no,no,yes,high,9,Advanced oncology scan analysis,oncology
+PediaVision,yes,yes,yes,no,low,2,Pediatric vision screener,pediatrics
+CardioAIPlus,yes,no,yes,yes,medium,5,Comprehensive cardiac AI,cardiology
+RespiraSense,no,yes,no,no,medium,3,Respiratory monitoring system,pulmonology
+DermAIPro,yes,no,yes,no,medium,3,Professional dermatology AI,dermatology
+NeuroAlert,no,no,no,yes,high,9,Neurological emergency alert,neurology
+GlucoseSense,yes,yes,yes,no,low,2,Real-time glucose sensing AI,endocrinology
+OrthoScanAI,yes,yes,yes,no,low,1,Orthopedic scan analysis,orthopedics
+LymphoDetect,no,no,no,yes,high,8,Lymphoma detection model,oncology
+RetinaGuard,yes,yes,yes,no,low,2,Retinal disease screener,ophthalmology
+SepsisAIPro,no,no,no,yes,high,9,Advanced sepsis prediction,critical_care
+NeoScanLite,yes,yes,yes,no,low,2,Neonatal scan lite version,neonatology
+OncoRiskAI,no,yes,no,yes,high,7,Oncology risk stratification,oncology
+CardioLiteAI,yes,yes,yes,no,low,1,Lightweight cardiac monitor,cardiology
+PulmoScanAI,no,no,no,yes,high,8,Pulmonology scan analyzer,pulmonology
+NeuroFlowAI,yes,yes,yes,no,low,2,Neural flow analysis system,neurology
+DermLiteAI,yes,yes,yes,no,low,2,Lightweight dermatology screener,dermatology
+StrokeSense,no,yes,no,yes,high,7,Stroke risk assessment,neurology
+PediaCareAI,yes,yes,yes,no,low,1,Comprehensive pediatric care AI,pediatrics
+OncoVisionAI,no,no,no,yes,high,9,Vision-based oncology tool,oncology
+RenalAIPlus,yes,yes,yes,no,low,2,Enhanced renal monitoring,nephrology
+EchoScanLite,yes,no,yes,yes,medium,5,Lightweight echo scanner,cardiology
+TraumaAIPro,no,yes,no,yes,high,8,Professional trauma AI,emergency
+InfectoScan,yes,yes,yes,no,low,2,Infection screening tool,infection_control
+NeuroPredictAI,no,no,no,yes,high,9,Neurological outcome predictor,neurology
+CardioScanPro,yes,yes,yes,no,low,1,Professional cardiac scanner,cardiology
+RespiralAIPlus,yes,yes,yes,no,low,2,Enhanced respiratory AI,pulmonology
